@@ -67,43 +67,6 @@ philosophy: "If it can be automated with a neural net, I'm probably already on i
 
 ---
 
-### 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎥 Webcam Headcount — Online Classroom AI</h4>
-      <p>Real-time computer vision system that detects and counts people in front of a webcam, built to track presence in online classes.</p>
-      <p><b>Stack:</b> Python · TensorFlow/PyTorch · OpenCV</p>
-      <a href="https://github.com/TheReal-Diego/PROJECT_REPO_1">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⛽ Fuel Quality Predictor</h4>
-      <p>Machine learning model that analyzes fuel sample data to classify and predict quality, flagging contaminated or low-grade fuel.</p>
-      <p><b>Stack:</b> Python · Machine Learning · Data Science</p>
-      <a href="https://github.com/TheReal-Diego/PROJECT_REPO_2">🔗 View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔍 GitHub Account Finder</h4>
-      <p>Web app that looks up and displays detailed GitHub account info from just a username, powered by the GitHub API.</p>
-      <p><b>Stack:</b> PHP · JavaScript · SQL · HTML · CSS</p>
-      <a href="https://github.com/TheReal-Diego/PROJECT_REPO_3">🔗 View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💡 Tech & AI Showcase</h4>
-      <p>A clean, simple website that introduces modern technologies and AI concepts to a general audience.</p>
-      <p><b>Stack:</b> HTML · CSS · JavaScript · PHP</p>
-      <a href="https://github.com/TheReal-Diego/PROJECT_REPO_4">🔗 View Repo</a>
-    </td>
-  </tr>
-</table>
-
-> 💡 لینک هر ریپو (`PROJECT_REPO_1` تا `PROJECT_REPO_4`) رو با اسم واقعی ریپازیتوریت جایگزین کن.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -126,8 +89,6 @@ philosophy: "If it can be automated with a neural net, I'm probably already on i
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheReal-Diego/TheReal-Diego/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> ⚙️ برای فعال شدن این انیمیشن باید یه GitHub Action ست کنی — بگو تا فایل workflow اون رو هم برات بسازم.
 
 ---
 
