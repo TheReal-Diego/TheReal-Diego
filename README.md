@@ -1,93 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=200&section=header&text=DIEGO&fontColor=D4AF37&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=C9C9C9"/>
 
-<h1>DIEGO</h1>
-<sub>AI ENGINEER &nbsp;·&nbsp; FULL-STACK DEVELOPER</sub>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&letterSpacing=1px&lines=Training+neural+networks+to+see+the+world.;Turning+raw+data+into+real+decisions.;Designing+clean%2C+full-stack+products.;Welcome+to+my+workspace." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3500&pause=1500&color=D4AF37&center=true&vCenter=true&width=500&letterSpacing=1px&lines=Crafting+intelligent+systems.;Building+clean%2C+purposeful+products." alt="Typing SVG" />
+<a href="mailto:diegoai4040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://t.me/Diegoo_AA"><img src="https://img.shields.io/badge/-Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=D4AF37" /></a>
+<a href="https://x.com/diagoo404"><img src="https://img.shields.io/badge/-X-0D0D0D?style=for-the-badge&logo=x&logoColor=D4AF37" /></a>
+<img src="https://img.shields.io/badge/-Open%20to%20Work-0D0D0D?style=for-the-badge&logo=briefcase&logoColor=D4AF37" />
 
 </div>
 
 <br>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 
-I build AI-driven systems and full-stack products — from real-time computer vision to clean, functional web applications. I care about doing a few things well rather than a lot of things loosely.
+<br>
+
+<div align="center">
+<h3>ABOUT</h3>
+</div>
+
+<p align="center" width="700">
+&nbsp;&nbsp;&nbsp;&nbsp;I design and build intelligent systems — from real-time computer vision models to full-stack products people actually use. My work sits at the intersection of <b>AI</b> and <b>engineering</b>: I don't just train models, I ship them inside real applications. Currently exploring LLMs, RAG pipelines, and scalable ML systems.
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
+
+<br>
+
+<div align="center">
+<h3>TECHNOLOGY</h3>
+<br>
+
+<b>Artificial Intelligence</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+
+<br><br>
+
+<b>Web Development</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,figma,mysql&theme=dark" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,php,js,sql,html,css,figma&theme=dark" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 
 <br>
 
 <div align="center">
-
-### Selected Work
-
+<h3>SELECTED WORK</h3>
 </div>
+
+<br>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>Webcam Headcount</h4>
-<p><sub>Real-time computer vision that counts people in front of a camera — built to track presence in online classrooms.</sub></p>
-<p><sub><b>Python · TensorFlow · OpenCV</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_1"><sub>View →</sub></a>
+
+<h4>🎥 &nbsp;Webcam Headcount — AI Classroom Monitor</h4>
+<p><sub>A real-time computer vision system that detects and counts people in front of a webcam, built to track live presence during online classes.</sub></p>
+<p><sub><b>Python &nbsp;·&nbsp; TensorFlow / PyTorch &nbsp;·&nbsp; OpenCV</b></sub></p>
+<a href="https://github.com/TheReal-Diego/PROJECT_REPO_1"><sub><b>View Project →</b></sub></a>
+
 </td>
 <td width="50%" valign="top">
-<h4>Fuel Quality Predictor</h4>
-<p><sub>A machine learning model that classifies fuel samples to flag low-quality or contaminated fuel.</sub></p>
-<p><sub><b>Python · Machine Learning</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_2"><sub>View →</sub></a>
+
+<h4>⛽ &nbsp;Fuel Quality Predictor</h4>
+<p><sub>A machine learning model that analyzes fuel sample data to classify quality and flag contaminated or substandard fuel.</sub></p>
+<p><sub><b>Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b></sub></p>
+<a href="https://github.com/TheReal-Diego/PROJECT_REPO_2"><sub><b>View Project →</b></sub></a>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>GitHub Account Finder</h4>
-<p><sub>A lookup tool that surfaces GitHub account details from a single username via the GitHub API.</sub></p>
-<p><sub><b>PHP · JavaScript · SQL</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_3"><sub>View →</sub></a>
+
+<h4>🔍 &nbsp;GitHub Account Finder</h4>
+<p><sub>A web application that retrieves and displays GitHub account details from a single username via the GitHub API.</sub></p>
+<p><sub><b>PHP &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; SQL &nbsp;·&nbsp; HTML/CSS</b></sub></p>
+<a href="https://github.com/TheReal-Diego/PROJECT_REPO_3"><sub><b>View Project →</b></sub></a>
+
 </td>
 <td width="50%" valign="top">
-<h4>Tech & AI Showcase</h4>
-<p><sub>A clean, simple site introducing modern technology and AI concepts to a general audience.</sub></p>
-<p><sub><b>HTML · CSS · JavaScript</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_4"><sub>View →</sub></a>
+
+<h4>💡 &nbsp;Tech & AI Showcase</h4>
+<p><sub>A clean, accessible website introducing modern technology and AI concepts to a general audience.</sub></p>
+<p><sub><b>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP</b></sub></p>
+<a href="https://github.com/TheReal-Diego/PROJECT_REPO_4"><sub><b>View Project →</b></sub></a>
+
 </td>
 </tr>
 </table>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
+
+<br>
+
 <div align="center">
+<h3>ACTIVITY</h3>
+<br>
 
-### Activity
+<img src="https://github-readme-stats.vercel.app/api?username=TheReal-Diego&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D&hide_rank=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheReal-Diego&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&currStreakNum=C9C9C9&sideNums=C9C9C9&dates=8A8A8A" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheReal-Diego&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D&hide_rank=true" height="150" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal-Diego&layout=compact&hide_border=true&theme=dark&title_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheReal-Diego&bg_color=0D0D0D&color=D4AF37&line=D4AF37&point=C9C9C9&hide_border=true" width="90%" />
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
+
+<br>
+
 <div align="center">
-
-### Contact
-
-<a href="mailto:diegoai4040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
-<a href="https://t.me/Diegoo_AA"><img src="https://img.shields.io/badge/-Telegram-0D0D0D?style=flat-square&logo=telegram&logoColor=D4AF37" /></a>
-<a href="https://x.com/diagoo404"><img src="https://img.shields.io/badge/-X-0D0D0D?style=flat-square&logo=x&logoColor=D4AF37" /></a>
-
+<h3>CONTRIBUTIONS</h3>
+<br>
+<img src="https://raw.githubusercontent.com/TheReal-Diego/TheReal-Diego/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:0F0F0F&height=100&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=150&section=footer&text=Let's%20build%20something%20great&fontColor=D4AF37&fontSize=24&fontAlignY=75"/>
