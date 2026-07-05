@@ -88,7 +88,7 @@
 <h4>✋ &nbsp;Virtual Air Drawing</h4>
 <p><sub>A computer vision application that turns hand gestures into a virtual drawing tool, allowing users to draw with an index finger and move the canvas using an open palm.</sub></p>
 <p><sub><b>Python &nbsp;·&nbsp; OpenCV</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_3"><sub><b>View Project →</b></sub></a>
+<a href="https://github.com/TheReal-Diego/Virtual_Air_Drawing"><sub><b>View Project →</b></sub></a>
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@
 <h4>🩺 &nbsp;Kidney Disease Prediction</h4>
 <p><sub>A machine learning model that analyzes patient health data to predict the likelihood of kidney disease and assist with early risk assessment.</sub></p>
 <p><sub><b>Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b></sub></p>
-<a href="https://github.com/TheReal-Diego/PROJECT_REPO_4"><sub><b>View Project →</b></sub></a>
+<a href="https://github.com/TheReal-Diego/Kidney_failure"><sub><b>View Project →</b></sub></a>
 
 </td>
 </tr>
