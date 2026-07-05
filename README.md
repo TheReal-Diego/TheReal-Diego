@@ -11,7 +11,7 @@
 <a href="mailto:diegoai4040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://t.me/Diegoo_AA"><img src="https://img.shields.io/badge/-Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=D4AF37" /></a>
 <a href="https://x.com/diagoo404"><img src="https://img.shields.io/badge/-X-0D0D0D?style=for-the-badge&logo=x&logoColor=D4AF37" /></a>
-
+<a href="https://www.linkedin.com/in/diego-rubio-13b25a41a/"><img src="https://img.shields.io/badge/-linkdin-0D0D0D?style=for-the-badge&logo=x&logoColor=D4AF37" /></a>
 
 </div>
 
