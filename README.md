@@ -112,8 +112,8 @@
 <h3>ACTIVITY</h3>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheReal-Diego&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D&hide_rank=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheReal-Diego&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&currStreakNum=C9C9C9&sideNums=C9C9C9&dates=8A8A8A" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=TheReal-Diego&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D&hide_rank=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheReal-Diego&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&currStreakNum=C9C9C9&sideNums=C9C9C9&dates=8A8A8A" height="165" /> -->
 
 <br>
 
