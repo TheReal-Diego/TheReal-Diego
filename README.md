@@ -67,17 +67,17 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4>🎥 &nbsp;Webcam Headcount — AI Classroom Monitor</h4>
-<p><sub>A real-time computer vision system that detects and counts people in front of a webcam, built to track live presence during online classes.</sub></p>
-<p><sub><b>Python &nbsp;·&nbsp; TensorFlow / PyTorch &nbsp;·&nbsp; OpenCV</b></sub></p>
+<h4>📰 &nbsp;Multilingual AI News Aggregator</h4>
+<p><sub>An intelligent web application that collects AI and technology news from multiple sources, automatically translates articles into multiple languages, and presents them through a clean interface.</sub></p>
+<p><sub><b>Python &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript</b></sub></p>
 <a href="https://github.com/TheReal-Diego/PROJECT_REPO_1"><sub><b>View Project →</b></sub></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>⛽ &nbsp;Fuel Quality Predictor</h4>
-<p><sub>A machine learning model that analyzes fuel sample data to classify quality and flag contaminated or substandard fuel.</sub></p>
-<p><sub><b>Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b></sub></p>
+<h4>✅ &nbsp;Smart Daily Task Manager</h4>
+<p><sub>A full-stack task management application that lets users create, edit, delete, and organize daily tasks with persistent database storage.</sub></p>
+<p><sub><b>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL</b></sub></p>
 <a href="https://github.com/TheReal-Diego/PROJECT_REPO_2"><sub><b>View Project →</b></sub></a>
 
 </td>
@@ -85,17 +85,17 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4>🔍 &nbsp;GitHub Account Finder</h4>
-<p><sub>A web application that retrieves and displays GitHub account details from a single username via the GitHub API.</sub></p>
-<p><sub><b>PHP &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; SQL &nbsp;·&nbsp; HTML/CSS</b></sub></p>
+<h4>✋ &nbsp;Virtual Air Drawing</h4>
+<p><sub>A computer vision application that turns hand gestures into a virtual drawing tool, allowing users to draw with an index finger and move the canvas using an open palm.</sub></p>
+<p><sub><b>Python &nbsp;·&nbsp; OpenCV</b></sub></p>
 <a href="https://github.com/TheReal-Diego/PROJECT_REPO_3"><sub><b>View Project →</b></sub></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>💡 &nbsp;Tech & AI Showcase</h4>
-<p><sub>A clean, accessible website introducing modern technology and AI concepts to a general audience.</sub></p>
-<p><sub><b>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP</b></sub></p>
+<h4>🩺 &nbsp;Kidney Disease Prediction</h4>
+<p><sub>A machine learning model that analyzes patient health data to predict the likelihood of kidney disease and assist with early risk assessment.</sub></p>
+<p><sub><b>Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b></sub></p>
 <a href="https://github.com/TheReal-Diego/PROJECT_REPO_4"><sub><b>View Project →</b></sub></a>
 
 </td>
