@@ -117,7 +117,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal-Diego&layout=compact&hide_border=true&theme=dark&title_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal-Diego&layout=compact&hide_border=true&theme=dark&title_color=D4AF37&text_color=C9C9C9&bg_color=0D0D0D" /> -->
 
 <br><br>
 
