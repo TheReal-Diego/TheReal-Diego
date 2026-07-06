@@ -57,9 +57,9 @@
 
 <br>
 
-<div align="center">
-<h3>SELECTED WORK</h3>
-</div>
+<!-- <div align="center">
+
+</div> -->
 
 <br>
 
