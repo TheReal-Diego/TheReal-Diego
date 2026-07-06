@@ -63,44 +63,6 @@
 
 <br>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h4>📰 &nbsp;Multilingual AI News Aggregator</h4>
-<p><sub>An intelligent web application that collects AI and technology news from multiple sources, automatically translates articles into multiple languages, and presents them through a clean interface.</sub></p>
-<p><sub><b>Python &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript</b></sub></p>
-<a href="https://github.com/TheReal-Diego/tech-news-fa"><sub><b>View Project →</b></sub></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>✅ &nbsp;Smart Daily Task Manager</h4>
-<p><sub>A full-stack task management application that lets users create, edit, delete, and organize daily tasks with persistent database storage.</sub></p>
-<p><sub><b>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL</b></sub></p>
-<a href="https://github.com/TheReal-Diego/Taskflow"><sub><b>View Project →</b></sub></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>✋ &nbsp;Virtual Air Drawing</h4>
-<p><sub>A computer vision application that turns hand gestures into a virtual drawing tool, allowing users to draw with an index finger and move the canvas using an open palm.</sub></p>
-<p><sub><b>Python &nbsp;·&nbsp; OpenCV</b></sub></p>
-<a href="https://github.com/TheReal-Diego/Virtual_Air_Drawing"><sub><b>View Project →</b></sub></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🩺 &nbsp;Kidney Disease Prediction</h4>
-<p><sub>A machine learning model that analyzes patient health data to predict the likelihood of kidney disease and assist with early risk assessment.</sub></p>
-<p><sub><b>Python &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Data Science</b></sub></p>
-<a href="https://github.com/TheReal-Diego/Kidney_failure"><sub><b>View Project →</b></sub></a>
-
-</td>
-</tr>
-</table>
 
 <br>
 
