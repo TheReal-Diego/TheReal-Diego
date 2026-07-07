@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/diego-rubio-13b25a41a/"><img src="https://img.shields.io/badge/-linkdin-0D0D0D?style=for-the-badge&logo=linkdin&logoColor=D4AF37" /></a>
 
 
+
 </div>
 
 <br>
