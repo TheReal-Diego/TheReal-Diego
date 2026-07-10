@@ -6,6 +6,8 @@
 <a href="mailto:diegoai4040@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 <a href="https://t.me/Diegoo_AA"><img src="https://img.shields.io/badge/-Telegram-0D0D0D?style=for-the-badge&logo=telegram&logoColor=D4AF37" /></a>
 <a href="https://x.com/diagoo404"><img src="https://img.shields.io/badge/-X-0D0D0D?style=for-the-badge&logo=x&logoColor=D4AF37" /></a>
+<a href="https://www.linkedin.com/in/diego-rubio-13b25a41a/"><img src="https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+</div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:D4AF37&height=2&section=header" width="100%"/>
 <br>
@@ -21,32 +23,14 @@
 <div align="center">
 <h3>ACHIEVEMENTS</h3>
 <br>
+<sub><i>Recognized internationally for engineering &amp; innovation</i></sub>
+<br><br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-<sub>🥈</sub>
-<br>
-<b>Silver Medal</b>
-<br>
-<sub>Swiss Invention &amp; Innovation Competition</sub>
-</td>
-<td align="center" width="33%">
-<sub>🌐</sub>
-<br>
-<b>Member</b>
-<br>
-<sub>World Inventors &amp; Innovators Association</sub>
-</td>
-<td align="center" width="33%">
-<sub>🇹🇷</sub>
-<br>
-<b>Competitor</b>
-<br>
-<sub>Turkey International Innovation Competition</sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🥈%20SILVER%20MEDAL-Swiss%20Invention%20%26%20Innovation%20Expo-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
+<br><br>
+<img src="https://img.shields.io/badge/🌐%20MEMBER-World%20Inventors%20%26%20Innovators%20Association-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
+<br><br>
+<img src="https://img.shields.io/badge/🇹🇷%20COMPETITOR-Turkey%20Intl.%20Innovation%20Competition-D4AF37?style=for-the-badge&labelColor=0D0D0D" />
 
 </div>
 <br>
